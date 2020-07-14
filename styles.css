@@ -1,0 +1,59 @@
+/* add your CSS here */
+.container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    width: 100%;
+}
+
+.card{
+    width: 310px;
+    border: 0.5px solid lightgray;
+    padding: 5px;
+    box-shadow: 5px 5px lightgray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+   border: 0.5px solid white;
+   width: fit-content;
+}
+
+.fact{
+    font-style: italic;
+}
+
+.list-style{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.img{
+    width: 100%;    
+}
+
+.image{
+    width: 300px;
+    height: 200px;
+    border: 0.5px solid lightgray;
+    margin: 4px;
+}
+
+.description{
+    width: 286px;
+    height: auto;
+    border: 0.5px solid lightgray;
+    margin: 4px;
+    margin-top: 10px;
+    padding-left: 8px;
+    padding-right: 6px;
+    font-size: 12pt;
+}
